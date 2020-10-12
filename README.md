@@ -8,7 +8,7 @@
 
 
 ### 분석 파일
-> - [K-means clustering[(k-means.ipynb)
+> - [K-means clustering](k-means.ipynb)
 > - [면적 예측 회귀분석](회귀분석.ipynb)
 
 
