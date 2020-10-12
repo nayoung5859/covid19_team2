@@ -8,8 +8,8 @@
 
 
 ### 분석 파일
-> - [K-means clustering[(k-means클러스터링으로 번화가 상권 찾기.ipynb)
-> - [면적 예측 회귀분석](상권분석 흔적들.ipynb)
+> - [K-means clustering[(k-means.ipynb)
+> - [면적 예측 회귀분석](회귀분석.ipynb)
 
 
 ### 참고 사이트
