@@ -4,7 +4,7 @@
 ### 가공 데이터 파일
 
 ### 분석 파일
-> - [K-means clustering](k-means.ipynb)
+> - [K-means clustering - 나영의 연습](k-means.ipynb)
 > - [면적 예측 회귀분석](회귀분석.ipynb)
 
 
