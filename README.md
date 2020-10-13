@@ -4,6 +4,7 @@
 ### 가공 데이터 파일
 > - [정규화된 데이터](블럭별_클러스터링_작업/norm_data.xlsx)
 > - [정규화된 데이터 - 특구, 시장 제외](norm_data_특구시장제외.xlsx)
+> - [정규화된 데이터 + 클러스터id](final_최종.xlsx)
 
 ### 분석 파일
 > - [K-means clustering - 나영의 연습](k-means.ipynb)
