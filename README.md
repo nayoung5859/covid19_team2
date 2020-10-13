@@ -7,7 +7,7 @@
 ### 분석 파일
 > - [K-means clustering - 나영의 연습](k-means.ipynb)
 > - [면적 예측 회귀분석](회귀분석.ipynb)
-> - [정규화된 데이터로 한 K-means clustering]()
+> - [정규화된 데이터로 한 K-means clustering](블럭별_클러스터링_작업.ipynb)
 > - 
 
 
